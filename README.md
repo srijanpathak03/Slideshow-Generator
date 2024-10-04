@@ -59,3 +59,9 @@ The Slideshow Application is a full-stack project that enables users to upload i
     ```bash
     npm start
      ```
+    
+## Conclusion
+
+If you enjoyed this project, please consider giving it a star on GitHub! ⭐
+
+Feel free to reach out if you have any questions or feedback.
