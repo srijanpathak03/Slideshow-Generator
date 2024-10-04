@@ -32,7 +32,7 @@ The Slideshow Application is a full-stack project that enables users to upload i
    git clone https://github.com/your-username/Slideshow-Generator.git
    cd slideshow-generator/server
    npm install
-  bash```
+     ```
   
 3. **Set up environment variables: Create a .env file in the backend directory**:
    ```bash
@@ -40,12 +40,12 @@ The Slideshow Application is a full-stack project that enables users to upload i
     CLOUDINARY_API_KEY=your_api_key
     CLOUDINARY_API_SECRET=your_api_secret
     PORT=3000
-  bash```
+     ```
   
 4. **Start the server**:
     ```bash
       npm start
-  bash```
+    ```
   
 ### Frontend Setup
 
@@ -53,9 +53,9 @@ The Slideshow Application is a full-stack project that enables users to upload i
     ```bash
     cd ../client
     npm install
-  bash```
+    ```
   
 6. **Start the React application**:
     ```bash
     npm start
-  bash```
+     ```
